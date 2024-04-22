@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Mohamed, moslty known as THEMIDFIRE
 - 👀 I’m interested in Front-End web development
-- 🌱 I’m currently learning some JS frameworks
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Front-end projects that would make me gain more experience in the field and gain the trust of the clients on the go
 - 📫 How to reach me?
 - That's easy..
