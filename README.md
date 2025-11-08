@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on fron-end projects for better experience<br>🌱 I’m currently learning ReactJs<br>⚡ Fun fact, I can't focus without Music and food
+👯 I’m looking to collaborate on front-end projects for better experience<br>
 
 
 ## 🌐 Socials:
