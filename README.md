@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Mohamed%20Magdy&textBg=false&fontColor=fff&descAlign=50&descAlignY=55&desc=Front-End%20Developer%20|%20React%20&%20Next.js&fontAlignY=38&animation=fadeIn&fontSize=50&customColorList=6,11,20)
 
 <p align="center">
-  <a href="https://linkedin.com/in/themidfire"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:chaoticoder@gmail.com"><img src="https://img.shields.io/badge/Email-chaoticoder@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mmagdysharaby"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mohamedelsharaby202@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedelsharaby202@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/TH3MIDFIRE"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=themidfire&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
@@ -104,8 +104,8 @@ Deepening my Next.js architecture knowledge and exploring full-stack patterns �
 
 I'm available for remote positions and freelance work.
 
-- 📧 **chaoticoder@gmail.com**
-- 💼 **[linkedin.com/in/themidfire](https://linkedin.com/in/themidfire)**
+- 📧 **mohamedelsharaby202@gmail.com**
+- 💼 **[linkedin.com/in/mmagdysharaby](https://linkedin.com/in/mmagdysharaby)**
 - 🌍 Based in Egypt — available across any timezone
 
 If you have a project that needs a developer who takes performance and user experience seriously, reach out.
